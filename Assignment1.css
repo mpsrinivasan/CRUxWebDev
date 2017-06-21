@@ -1,0 +1,29 @@
+body {
+	background-color : blue;
+	text-align : center;
+	font-size : 30;
+}
+#heading{
+	text-align : "center";
+	font-size : "50"
+}
+
+#theorem{
+	text-align : center;
+	color : red;
+	font-size : 30;
+}
+
+#pyth_eqn{
+	
+}
+
+#sup_a{
+	color : red;
+	font-size : 30;
+}
+
+#sup_c{
+	color : red;
+	font-size = 30;
+}
